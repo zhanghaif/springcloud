@@ -13,6 +13,7 @@
 	
 	<modules>
 		<module>service-cloud-eureka</module>
+		<module>service-cloud-eureka-client</module>
 	</modules>
 	
 
