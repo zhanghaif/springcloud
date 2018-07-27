@@ -5,3 +5,5 @@ springcloud学习
 在使用Eureka时 尽量参考
 http://projects.spring.io/spring-cloud/
 使用
+
+中文文档https://springcloud.cc/
