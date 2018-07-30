@@ -1,5 +1,5 @@
 # springcloud
-springcloud学习
+springcloud
 项目在https://start.spring.io/创建
 
 在使用Eureka时 尽量参考
