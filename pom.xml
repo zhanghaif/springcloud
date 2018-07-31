@@ -15,6 +15,7 @@
 		<module>service-cloud-eureka</module>
 		<module>service-cloud-eureka-client</module>
 		<module>service-cloud-eureka-client2</module>
+		<module>service-cloud-eureka-user</module>
 	</modules>
 	
 
