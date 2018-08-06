@@ -18,6 +18,7 @@
 		<module>service-cloud-eureka-user</module>
 		<module>service-cloud-eureka-ribbon</module>
 		<module>service-cloud-mybatis-db</module>
+		<module>service-cloud-eureka-ftp</module>
 	</modules>
 	
 
