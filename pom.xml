@@ -19,6 +19,7 @@
 		<module>service-cloud-eureka-ribbon</module>
 		<module>service-cloud-mybatis-db</module>
 		<module>service-cloud-eureka-ftp</module>
+		<module>service-cloud-eureka-udp</module>
 	</modules>
 	
 
