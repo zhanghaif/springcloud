@@ -7,7 +7,8 @@ import java.net.InetAddress;
 
 public class ClientController {
 
-	 private final static int PORT = 8086;
+	 	private final static int PORT = 8086;
+	 	
 	    private static final String HOSTNAME = "localhost";
 	    
 	    

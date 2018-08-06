@@ -4,7 +4,11 @@ import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.util.Date;
-
+/**
+ * udp服务
+ * @author zhanghaifeng
+ *
+ */
 public class TestController {
 
 	private final static int PORT = 8086;
